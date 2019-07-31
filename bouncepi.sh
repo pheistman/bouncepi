@@ -5,7 +5,6 @@ echo $'\n'$"You are about to restart pihole services..."
 echo "+"
 echo "+"
 echo "+"
-echo "+"
 echo $'\n'$"Stopping pihole-FTL..."
 sudo service pihole-FTL stop
 
