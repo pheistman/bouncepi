@@ -1,5 +1,5 @@
 #!/bin/bash
-#This script will stop and start pihole-FTL and restart the pihole DNS
+#This script will stop and start pihole-FTL then restart the pihole DNS
 
 echo $'\n'$"You are about to restart pihole services..."
 echo "+"
